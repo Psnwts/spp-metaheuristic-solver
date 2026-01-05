@@ -70,8 +70,8 @@ def load_instance(filename: str) -> Dict:
             A[i, j-1] = 1
 
     return {
-        'n_constraints': n,
-        'n_variables': m,
+        'n_sets': n,
+        'n_items': m,
         'weights': weights,  # Keep as list for convenience
         'sets': sets,        # Keep original sets representation
         'c': c,              # Coefficient vector (numpy array)
