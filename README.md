@@ -3,7 +3,7 @@
 Optimization solver for the Set Packing Problem using exact methods and metaheuristics.
 
 ## Live Demo
-🚀 [Coming soon - will deploy to Streamlit Cloud]
+🚀 [https://spp-metaheuristic-solver-izemiykyvyxjm7vnxyk82m.streamlit.app/]
 
 ## Features
 - **Exact Solver**: Optimization using PuLP (CBC/HiGHS/GLPK)
